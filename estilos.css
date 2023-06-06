@@ -1,0 +1,77 @@
+.city1 {
+	background-color: rgb(189, 81, 19);
+	color: rgb(255, 255, 255);
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+
+
+}
+.city2{
+    background-color: rgb(167, 233, 61);
+	color: rgb(0, 0, 0);
+	border: 2px solid rgb(79, 254, 4);
+	margin: 20px;
+	padding: 20px;
+}
+.city3{
+    background-color: rgb(58, 221, 90);
+	color: rgb(0, 0, 0);
+	border: 2px solid rgb(21, 99, 56);
+	margin: 20px;
+	padding: 20px;
+}
+.td{
+    background-color:rgb(244, 186, 186);
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+	border: 2px solid rgb(138, 66, 66);
+	margin: 20px;
+	padding: 20px;
+}
+a{
+    text-decoration-line: none;
+    color: rgb(12, 11, 11);
+}
+.city5{
+	background-color: rgb(219, 106, 30);
+	color: rgb(0, 0, 0);
+	border: 2px solid rgb(54, 23, 3);
+	margin: 20px;
+	padding: 20px;
+}
+.city6{
+	background-color: rgb(202, 118, 69);
+	color: rgb(0, 0, 0);
+	border: 2px solid rgb(255, 255, 255);
+	margin: 20px;
+	padding: 20px;
+}
+.city9{
+	background-color: rgb(219, 192, 212);
+	color: rgb(0, 0, 0);
+	border: 2px solid rgb(145, 29, 93);
+	margin: 20px;
+	padding: 20px;
+}
+.city8{
+	background-color: rgb(120, 110, 118);
+	color: rgb(0, 0, 0);
+	border: 2px solid rgb(145, 29, 93);
+	margin: 20px;
+	padding: 20px;
+}
+.city10{
+	background-color: rgb(28, 96, 222);
+	color: rgb(0, 0, 0);
+	border: 2px solid rgb(6, 81, 130);
+	margin: 20px;
+	padding: 20px;
+}
+.city11{
+	background-color: rgb(100, 146, 226);
+	color: rgb(0, 0, 0);
+	border: 2px solid rgb(66, 177, 237);
+	margin: 20px;
+	padding: 20px;
+}
